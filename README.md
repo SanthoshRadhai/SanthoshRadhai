@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=SanthoshRadhai)](https://github.com/SanthoshRadhai/github-profile-trophy)
+
 
 <!---
 SanthoshRadhai/SanthoshRadhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
